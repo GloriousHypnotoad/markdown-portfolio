@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. People
+2. Places
+3. Things
+
+ * A Great
+ * Many
+ * Things
